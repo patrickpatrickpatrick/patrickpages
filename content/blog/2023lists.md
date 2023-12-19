@@ -1,5 +1,5 @@
 ---
-title: Patrick's Pages - 2023 lists
+title: 2023 lists
 description: Patrick's 2023 round-up
 date: 2023-12-19
 ---
