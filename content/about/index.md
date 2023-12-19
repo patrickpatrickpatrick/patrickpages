@@ -8,7 +8,7 @@ eleventyNavigation:
 
 ## Me
 
-I'm Patrick. My interests are computers and art. Send me an email if you want to chat :)
+I'm Patrick. My interests are computers and art. 
 
 ## The Website
 

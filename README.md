@@ -1,3 +1,7 @@
+# My personal site
+
+It uses [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) and it is hosted on [Github Pages](https://pages.github.com/).
+
 # eleventy-base-blog v8
 
 A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) site generator (using the [v2.0 release](https://www.11ty.dev/blog/eleventy-v2/)).
