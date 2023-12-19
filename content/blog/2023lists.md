@@ -6,11 +6,9 @@ date: 2023-12-19
 
 ## Music
 
-I keep forgetting to log all the music I listen to, I then have to painfully recall from memory what I actually enjoyed each year. The sheer amount of great music released this year however made this list a lot easier than last year.
+I keep forgetting to log all the music I listen to, I then have to painfully recall from memory what I actually enjoyed each year. The sheer amount of great music released this year however made this way easier than 2022.
 
 I'll say without caveats that it was "a great year for music". In pretty much every genre (that I keep up with) there was something interesting released. For the most part the "discourse" was very ignorable because it was so easy to find something else to listen to. It feels like the strongest year of this decade so far and one that I think will be looked back on very favourably at the end of the 2020s.
-
-I'm sure there must be some seminal metal/hardcore releases (need to listen to the Liturgy record) that I haven't (yet) heard (as that's probably the biggest hole in my list of genres-that-I'm-typically-very-into this year).
 
 Here are some lists of what I've been listening to the most this year but also I've probably forgotten, like, more than half of it lol
 
@@ -61,21 +59,21 @@ Here are some lists of what I've been listening to the most this year but also I
 
 ### Goblin mode
 
-- [Ken Carson record](https://en.wikipedia.org/wiki/A_Great_Chaos) is a worse '[Whole Lotta Red](https://en.wikipedia.org/wiki/Whole_Lotta_Red)'? he uses too many words (and those words and the delivery of those words are bad)
+- [Ken Carson record](https://en.wikipedia.org/wiki/A_Great_Chaos) is a worse '[Whole Lotta Red](https://en.wikipedia.org/wiki/Whole_Lotta_Red)'? he uses too many words (and the chosen words and the delivery of those words are bad) and there's even a worse song about being a vampire
 - liked '[Twin Plagues](https://en.wikipedia.org/wiki/Twin_Plagues)' way more, sorry
 - ever read a press cycle so bad it makes you regret writing a letter about how much you wanted to see them to play live into the Guardian when you were bored at work one day lol
 - thought '[Guts](https://en.wikipedia.org/wiki/Guts_(Olivia_Rodrigo_album))' would be like '[Shōso Strip](https://en.wikipedia.org/wiki/Sh%C5%8Dso_Strip)', it isn't :(
-- found out the Number Girl reunion is done, the dream of seeing em live are dead :(
+- found out the Number Girl reunion is done, the dream of seeing em live is dead :(
 
 ## Books
 
 After finishing [The Woman in White](https://en.wikipedia.org/wiki/The_Woman_in_White_(novel)) (really liked it but doesn't top [The Moonstone](https://en.wikipedia.org/wiki/The_Moonstone)), I picked up a Philip Marlowe omnibus from a random street market (so I wouldn't have to read any of the books over 600 pages that are still on my shelf).
 
-Over the course of 2023 I ended up reading most of the Marlowe books (shout out to 3-for-2 on books at Fopp). Similar to [Hangover Square](https://en.wikipedia.org/wiki/Hangover_Square) and [Crime & Punishment](https://en.wikipedia.org/wiki/Crime_and_Punishment), I love how evocative Raymond Chandler's works are of a particular place (that's very familiar to the author) at a particular time (in their own lives). Taken as a whole, I think the series is a rumination on how one's perspective changes as they get older and learning to eventually accept the passage of time. Reading all the Marlowe books, as time goes on and the author ages and L.A. changes, you can see how the aim of Marlowe/Chandler's ire gradually moves from indviduals to the system that those individuals are caught up in.
+Over the course of 2023 I ended up reading most of the Marlowe books (shout out to 3-for-2 on books at Fopp). Similar to [Hangover Square](https://en.wikipedia.org/wiki/Hangover_Square) and [Crime & Punishment](https://en.wikipedia.org/wiki/Crime_and_Punishment), I love how evocative Raymond Chandler's works are of a particular place (that's familiar to the author) at a particular time (in their own lives). Taken as a whole, I think the series is a rumination on how one's perspective changes as they get older. Reading all the Marlowe books, as time goes on and the author ages and L.A. changes, you can see how the aim of Marlowe/Chandler's ire gradually moves from indviduals to the system that those individuals are caught up in.
 
-It's why I would recommend [The Long Goodbye](https://en.wikipedia.org/wiki/The_Long_Goodbye_(novel)) (it's the second last in the series) as the must read of all the ones I've read. It has a high concentration of conversations with weird little guys (clearly Chandler's favourite part about writing the Marlowe stories); a (mostly) followable plot which acts as (slightly) more than just a weird little guy delivery mechanism; and Chandler turning his weaponised cynicism on himself.
+It's why I'd recommend [The Long Goodbye](https://en.wikipedia.org/wiki/The_Long_Goodbye_(novel)) (it's the second last in the series) as the must read of the ones I've read. It has a high concentration of conversations with weird little guys (clearly Chandler's favourite part about writing the Marlowe stories); a (mostly) followable plot which acts as (slightly) more than just a weird little guy delivery mechanism; and Chandler turning his weaponised cynicism on himself.
 
-I would still say read them all to get an engaging developing portrait of a place (L.A.) and a person (Chandler). And it is pretty fun to read Chandler rip into every person he met during his tenure as a screenwriter in Hollywood in [The Little Sister](https://en.wikipedia.org/wiki/The_Little_Sister).
+I'd still say read them all to get an engaging developing portrait of a place (L.A.) and a person (Chandler). And it's pretty fun to read Chandler rip into every person he met during his tenure as a screenwriter in Hollywood in [The Little Sister](https://en.wikipedia.org/wiki/The_Little_Sister).
 
 ## Movies
 
