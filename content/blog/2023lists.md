@@ -1,5 +1,5 @@
 ---
-title: 2023 lists
+title: Patrick's Pages - 2023 lists
 description: Patrick's 2023 round-up
 date: 2023-12-19
 ---
@@ -79,7 +79,7 @@ I'd still say read them all to get an engaging developing portrait of a place (L
 
 I fell way behind on movies this year (again). My highlights this year are pretty much all films I saw at various retrospectives.
 
-One of these highlights was going to The Cinema Museum to see a selection of rediscovered rarities from the 1920s. It was my first time going to The Cinema Museum. Big fan of chaotic volunteer-run museums that have the feel of exploring the collections store of the museum rather than the museum itself (see also [The Centre for Computing History](https://www.computinghistory.org.uk/) in Cambridge). Of the movies I saw on that day, I particularly enjoyed Ozu's [Dragnet Girl](https://letterboxd.com/film/dragnet-girl/) (ended with a chase scene that seemed plucked out of a film made 40-50 years in the future).
+One of these highlights was going to [The Cinema Museum](http://www.cinemamuseum.org.uk/) to see a selection of rediscovered rarities from the 1920s. It was my first time going to The Cinema Museum. Big fan of chaotic volunteer-run museums that have the feel of exploring the collections store of the museum rather than the museum itself (see also [The Centre for Computing History](https://www.computinghistory.org.uk/) in Cambridge). Of the movies I saw on that day, I particularly enjoyed Ozu's [Dragnet Girl](https://letterboxd.com/film/dragnet-girl/) (ended with a chase scene that seemed plucked out of a film made 40-50 years in the future).
 
 There was also the [New Taiwanese Cinema](https://www.thegardencinema.co.uk/season/new-taiwanese-cinema/) Retrospective at [The Garden Cinema](https://www.thegardencinema.co.uk/). I saw [A Brighter Summer Day](https://letterboxd.com/film/a-brighter-summer-day/) (my first Edward Yang) and [Rebels of the Neon God](https://letterboxd.com/film/rebels-of-the-neon-god/) (my first Tsai Ming-liang). Both were fantastic and I want to watch more films by both directors.
 
