@@ -16,7 +16,7 @@ jobs:
       - name: Build the site
         run: npm run build
       - name: Run mailer script
-        with:
+        env:
           GOOGLE_CREDS: ${{ secrets.GOOGLE_PRIVATE_KEY }}
         run: node mailer-script.js
       - name: Upload artifact
