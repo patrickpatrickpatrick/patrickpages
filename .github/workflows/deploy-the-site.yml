@@ -18,6 +18,7 @@ jobs:
       - name: Run mailer script
         with:
           GOOGLE_CREDS: ${{ secrets.GOOGLE_PRIVATE_KEY }}
+        run: node mailer-script.js
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:

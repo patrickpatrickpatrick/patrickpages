@@ -7,8 +7,8 @@ if (process.env.GOOGLE_CREDS) {
   firebaseConfig = JSON.parse(process.env.GOOGLE_CREDS);
 
   console.log('auth works')
-
-  return "Success"
+} else {
+  console.log('auth fails')
 }
 // } else {
 //   firebaseConfig = applicationDefault();
