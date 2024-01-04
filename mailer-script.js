@@ -1,5 +1,5 @@
-import { initializeApp, applicationDefault } = require("firebase-admin/app");
-import { getFirestore } = require("firebase-admin/firestore");
+const { initializeApp, applicationDefault } = require("firebase-admin/app");
+const { getFirestore } = require("firebase-admin/firestore");
 let firebaseConfig;
 
 if (process.env.GOOGLE_CREDS) {
