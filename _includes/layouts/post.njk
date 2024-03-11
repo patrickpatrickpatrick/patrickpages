@@ -7,22 +7,59 @@ layout: layouts/base.njk
 <h1>{{ title }}</h1>
 
 <ul class="post-metadata">
-	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
-	{%- for tag in tags | filterTagList %}
-	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
-	{%- endfor %}
+  <li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
+  {%- for tag in tags | filterTagList %}
+  {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+  <li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
+  {%- endfor %}
 </ul>
 
 {{ content | safe }}
 
+{# <div class="mailing-list-container">
+<form class="mailing-list-form">
+  <div class="mailing-list-form__form-title">
+    Sign up to the mailing list
+  </div>
+  <fieldset class="mailing-list-form__fieldset">
+    <div class="mailing-list-form__section">
+      <label class="mailing-list-form__label">Email:</label>
+      <input class="mailing-list-form__input-text" type="text" name="email" />
+    </div>
+  </fieldset>
+  <div class="mailing-list-form__section">
+    <fieldset class="mailing-list-form__fieldset mailing-list-form__radios">
+      <legend class="mailing-list-form__legend">
+        What posts do you want to get emails about?
+      </legend>
+      <div class="mailing-list-form__radio">
+        <input name="mailing-list" type="radio" value="all" />
+        <label for="all-posts">All posts</label>
+      </div>
+      <div class="mailing-list-form__radio">
+        <input name="mailing-list" type="radio" value="tech" />
+        <label for="tech-posts">Tech posts</label>
+      </div>
+      <div class="mailing-list-form__radio">
+        <input name="mailing-list" type="radio" value="not-tech" />
+        <label for="not-tech-posts">Other posts</label>
+      </div>
+    </fieldset>
+    <button class="mailing-list-form__button" type="submit">
+      Submit
+    </button>
+  </div>
+</form>
+</div>
+ #}
+ 
 {%- if collections.posts %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem %}
 {%- set nextPost = collections.posts | getNextCollectionItem %}
 {%- if nextPost or previousPost %}
 <ul class="links-nextprev">
-	{%- if previousPost %}<li>Previous: <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>{% endif %}
-	{%- if nextPost %}<li>Next: <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></li>{% endif %}
+  {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+  {%- if nextPost %}<li>Next: <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></li>{% endif %}
 </ul>
 {%- endif %}
 {%- endif %}

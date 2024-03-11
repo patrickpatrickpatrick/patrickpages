@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="generator" content="{{ eleventy.generator }}">
+
+		{%- css %}{% include "public/css/index.css" %}{% endcss %}
+
+		<style>{% getBundle "css" %}</style>
+	</head>
+	<body>
+		<a href="#skip" class="visually-hidden">Skip to main content</a>
+
+		<header class="header">
+			<a class="header__title" href="https://patworld.world" class="home-link">
+				<pre aria-hidden="true">
+                         .             o8o            oooo
+                       .o8             `"'            `888
+oo.ooooo.   .oooo.   .o888oo oooo d8b oooo   .ooooo.   888  oooo
+ 888' `88b `P  )88b    888   `888""8P `888  d88' `"Y8  888 .8P'
+ 888   888  .oP"888    888    888      888  888        888888.
+ 888   888 d8(  888    888 .  888      888  888   .o8  888 `88b.
+ 888bod8P' `Y888""8o   "888" d888b    o888o `Y8bod8P' o888o o888o
+ 888
+o888o
+                </pre>
+				<span class="visually-hidden">Patrick's Website</span>
+			</a>
+		</header>
+
+		<main id="skip">
+			{{ content | safe }}
+		</main>
+	</body>
+</html>
