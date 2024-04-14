@@ -1,4 +1,4 @@
 ---
 title: Atamaca Garden
-layout: layouts/base.nj
+layout: layouts/atamaca.njk
 ---
