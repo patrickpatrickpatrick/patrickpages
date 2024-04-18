@@ -453,3 +453,25 @@ input[type="radio"]+label:before {
 	position: absolute;
 	width: 15px;
 }
+
+
+.work__links-container {
+	display: flex;
+	flex-direction: column;
+}
+
+.work__links {
+	font-size: 1.5rem;
+	padding-bottom: 1rem;
+}
+
+.work__summary {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.work__preview {
+	padding-top: 1rem;
+	width: 100%;
+}

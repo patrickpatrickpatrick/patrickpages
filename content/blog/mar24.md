@@ -4,6 +4,8 @@ description: Mar 24 Roundup
 date: 2024-03-31
 ---
 
+Not going to comment on how late this is!
+
 ## What I've Been Listening To
 
 ### Amen Dunes - Boys
@@ -29,4 +31,11 @@ Ah, so this is finally on Spotify! Hosono is similar to O’Rourke, any record t
 ### BBBBBB - Shin God 2
 
 ### Full Body 2 -
+
+
+## Patch Notes
+
+There's now a works section! This meant digging out two projects (What If They Don't Have Eyes and Atamaca Garden Web Portal) and making them work again after a few years. This was surprisingly pretty straight-forward even with Discord API changes and create-react-app being discontinued! I'm not sure if the website design is very good at presenting this type of content in this way but oh well!
+
+There's now no 'About'. I didn't know what to put on there and now you can just look at my Works and read my blog posts to understand who I am :) (most job applications just let you specify your LinkedIn profile address seperately anyway!!)
 
