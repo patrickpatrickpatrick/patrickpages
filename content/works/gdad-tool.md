@@ -13,7 +13,8 @@ project_link: {
 github_url: https://github.com/patrickpatrickpatrick/gdad-tool
 summary: {
   time_frame: "< 2 months",
-  tech_stack: "React, Vite, Javascript, Styled Components",
+  tech_stack: "React, Vite, Javascript",
+  libraries: "Styled Components",
   roles: "Developer, Designer, Project Co-lead"
 }
 ---
@@ -30,11 +31,11 @@ The features were as follows:
 - the ability to view previous years submissions (if they existed)
 - making it more visible to the user where in the process they were
 
+In addition to the initial phase of gathering feedback, the tool was also subject to user testing. The user testing led to the discovery and fixing of bugs, re-writing instructions to make them clearer and adding extra guidance in the application to show the user what they still needed to do to complete the process.
+
 The application was hosted on Google App Scripts. I published the script as a Web App which meant I could present an HTML page containing the application code, so I used a plugin to compile the application into a single HTML file which I then uploaded to the project. 
 
-I used Google Sheets spreadsheets for saving and loading data. There was a spreadsheet to save each individual submission in as well as another spreadsheet which contained the relevant skills that a staff member would assess themselves by for each discipline. The use of Google Sheets did present an issue during the process, in the case of submissions being too long for an individual cell (maximum character count of 50000). I had to think on my feet and re-work the application to split the character count into a spillover cell if it was too long. This
+I used Google Sheets spreadsheets for saving and loading data. There was a spreadsheet to save each individual submission in as well as another spreadsheet which contained the relevant skills that a staff member would assess themselves by for each discipline. The use of Google Sheets did present an issue during the process, in the case of submissions being too long for an individual cell (maximum character count of 50000). I had to think on my feet and re-work the application to split the character count into a spillover cell if it was too long.
 
 While I had access to the code of the original tool, it was written in a such a way that it would have been difficult to add the extra functionality that was desired by users. Therefore I decided to start from scratch and took the opportunity to use Vite for the first time. I used the [govuk-react](https://github.com/govuk-react/govuk-react) package (based on [govuk-frontend](https://github.com/alphagov/govuk-frontend)), so that I wouldn't have to write my own UI library in the short time I had to implement new features. In addition, I had to use govuk-frontend for the Accordion component which had not yet been implemented in govuk-react. The use govuk-frontend and the Design System meant I could ensure the application had a consistent style with components that were thoroughly accessibility tested.
-
-
 
