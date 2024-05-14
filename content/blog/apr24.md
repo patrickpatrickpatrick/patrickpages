@@ -4,7 +4,7 @@ description: Apr 24 Roundup
 date: 2024-04-30
 ---
 
-Busy month so smaller round-up! Listened to fewer tracks, had less time to work on the site. Trying to also be stricter on schedule so I can actually get something out on time next month (lol).
+Busy month so smaller round-up! Listened to fewer tracks, had less time to work on the site. Trying to also be stricter on schedule so I can actually get something out on time next month (lol)
 
 ## What I've Been Listening To
 
@@ -24,7 +24,7 @@ RIP Chiyo Kamekawa, Yura Yura Teikoku forever.
 
 ### Sidewalk - A Country Western
 
-Yes, they’re a [guitar based band](/blog/mar24/#they-are-gutting-a-body-of-water-greg-mendez-sun-organ-krillin) [from Philadelphia](/blog/mar24/#full-body-2-ador-ation-audiotree-live-session). This time however the vibes are [Slanted And Enchanted](https://en.wikipedia.org/wiki/Slanted_and_Enchanted) rather than [Loveless](https://en.wikipedia.org/wiki/Loveless_(album)). [Life On The Lawn](https://acountrywestern.bandcamp.com/album/life-on-the-lawn) doesn’t reinvent the wheel but it does conjure up a well-used wheel from 30 years ago that’s been patched up with my [favourite](https://en.wikipedia.org/wiki/Shoegaze) [styles](https://en.wikipedia.org/wiki/Alternative_country) of [rock music](https://en.wikipedia.org/wiki/Noise_pop).
+Yes, they’re a [guitar based band](blog/mar24/#they-are-gutting-a-body-of-water-greg-mendez-sun-organ-krillin) [from Philadelphia](/blog/mar24/#full-body-2-ador-ation-audiotree-live-session). This time however the vibes are [Slanted And Enchanted](https://en.wikipedia.org/wiki/Slanted_and_Enchanted) rather than [Loveless](https://en.wikipedia.org/wiki/Loveless_(album)). [Life On The Lawn](https://acountrywestern.bandcamp.com/album/life-on-the-lawn) doesn’t reinvent the wheel but it does conjure up a well-used wheel from 30 years ago that’s been patched up with my [favourite](https://en.wikipedia.org/wiki/Shoegaze) [styles](https://en.wikipedia.org/wiki/Alternative_country) of [rock music](https://en.wikipedia.org/wiki/Noise_pop).
 
 [Listen to 'Sidewalk' here](https://www.youtube.com/watch?v=zJe4cfoecyc)
 
