@@ -318,6 +318,10 @@ ul li {
 	font-size: 1.5em;
 }
 
+.rss-feed-link-container {
+	text-align: center;
+}
+
 /* form */
 
 .mailing-list-container {
@@ -453,7 +457,6 @@ input[type="radio"]+label:before {
 	position: absolute;
 	width: 15px;
 }
-
 
 .work__links-container {
 	display: flex;
