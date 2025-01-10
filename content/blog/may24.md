@@ -22,9 +22,9 @@ Ran my PB 5K to this so it has to have a spot on the playlist this month!
 
 [Listen to "Speed" here](https://www.youtube.com/watch?v=plAr3adKbyc&pp=ygUYc3BlZWQgYXRhcmkgdGVlbmFnZSByaW90)
 
-### I Don’t Wanna Know - John Martyn
+### I Don’t Want To Know - John Martyn
 
-I generally find 70s folk more enjoyable when it’s mixed with other genres. The albums I’ve really enjoyed (["I Want to See The Bright Lights Tonight"](https://en.wikipedia.org/wiki/I_Want_to_See_the_Bright_Lights_Tonight) and ["Un-halfbricking"](https://en.wikipedia.org/wiki/Unhalfbricking)) have been effective fusions of classic folk sounds and 60s/70s rock stylings. ["Solid Air"](https://en.wikipedia.org/wiki/Solid_Air) kinda does it all, there’s jazz influence on the title track and some MPB inflections on the "The Man In The Station". There’s also two lovely straight-up folk songs ("Over The Hill" and "May You Never"). I’m picking "I Don’t Wanna Know" though because it got them good drums (sorry I’m a drummer!) and doesn't seem to get as much shine as the other songs.
+I generally find 70s folk more enjoyable when it’s mixed with other genres. The albums I’ve really enjoyed (["I Want to See The Bright Lights Tonight"](https://en.wikipedia.org/wiki/I_Want_to_See_the_Bright_Lights_Tonight) and ["Un-halfbricking"](https://en.wikipedia.org/wiki/Unhalfbricking)) have been effective fusions of classic folk sounds and 60s/70s rock stylings. ["Solid Air"](https://en.wikipedia.org/wiki/Solid_Air) kinda does it all, there’s jazz influence on the title track and some MPB inflections on the "The Man In The Station". There’s also two lovely straight-up folk songs ("Over The Hill" and "May You Never"). I’m picking "I Don’t Want To Know" though because it got them good drums (sorry I’m a drummer!) and doesn't seem to get as much shine as the other songs.
 
 [Listen to "I Don't Wanna Know" here](https://www.youtube.com/watch?v=NIqQ01RduIw)
 
