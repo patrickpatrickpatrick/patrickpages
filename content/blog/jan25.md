@@ -30,7 +30,7 @@ If you think I won't pass on an opportunity to interrupt a selection of short fu
 
 ### SahBabii - Viking
 
-SahBabii isn't necessarily doing anything new but his latest record Saaheem sounds great and calls back to a time when hip-hop was more fun (or maybe when I was having fun while listening to hip-hop lol). Viking is an obvious highlight of the record and a great summation of why Saaheem is such an appealing listen. [Anaconda Livin](https://www.youtube.com/watch?v=Qa5Ndx3lVuE) is also a highlight for me.
+SahBabii isn't necessarily doing anything new but his latest record Saaheem sounds great and calls back to a time when hip-hop was more fun (or maybe when I was having fun while listening to hip-hop lol). Viking is an obvious highlight of the record and a great summation of why Saaheem is such an appealing listen. [Anaconda Livin](https://www.youtube.com/watch?v=Qa5Ndx3lVuE) is also a favourite.
 
 [Listen to "Viking" here](https://www.youtube.com/watch?v=tG-5LELHZSY)
 
@@ -45,7 +45,3 @@ Bladee turned 30 and made a 30-song-long album about wanting to die, being paran
 Kept seeing people repping Jawnino's 40 so I finally checked it out in 2025. As a [Lucki enjoyer](https://www.youtube.com/watch?v=7-QK_1oHoiQ), I'm pretty into the low-energy delivery on-top-of expertly curated and varied beats school of hip-hop and Jawnino fits pretty well into that category. There's no real stylistic consistency across the whole tape apart from Jawnino himself, which makes it a surprisingly engaging listen in comparison to how engaged Jawnino sounds with the act of actually rapping itself. This track 'sentfromheaven' has one of the wooziest and weirdest productions of '40' and Jawnino's style fits it perfectly.
 
 [Listen to "sentfromheaven" here](https://www.youtube.com/watch?v=40FWyb3l23w)
-
-## Other notes
-
-gonna delete pretty much all professional content from the site, have no interest in maintaining a work presence outside of LinkedIn publically anymore
