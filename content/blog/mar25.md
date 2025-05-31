@@ -11,9 +11,9 @@ draft: true
 
 Life After Death 2 is the second instalment of an annual (there’s going to be a third!) weekend dedicated to heavy (or heavy adjacent) music. It’s organised by record shop and label Crypt of the Wizard, who over the years have become trustworthy and well-connected curators of note in the “____ metal” world. 
 
-If you’re even slightly into this style of music, I’d recommend going next year. I was only vaguely familiar with a small portion of the lineup but enjoyed every act I saw. There was something for everyone (into this music) here. From serene dungeon synth to black metal, from pagan beats to industrial black metal, from “frog concert” to blackened death metal (not to mention harsh noise).
+If you’re even slightly into this style of music, I’d recommend going next year. I was vaguely familiar with a small portion of the lineup but enjoyed every act I saw. There was something for everyone (into this music) here. From serene dungeon synth to black metal, from pagan beats to industrial black metal, from “frog concert” to blackened death metal (not to mention harsh noise).
 
-It’s a cliche that the scenes around brutal music are friendly and welcoming but Life After Death 2 didn’t disprove this! Walthamstow Trade Hall was also a fantastic setting for the proceedings (and has a very reasonably priced bar). I’m happy next year will be at the same venue. 
+It’s a cliche that the scenes around brutal music are friendly and welcoming but Life After Death 2 didn’t disprove this! Walthamstow Trade Hall was also a fantastic setting for the proceedings (with a reasonably priced bar). It can be a mission to get to from South London but it justified the journey.
 
 I’m highlighting Vacuous here as I was so impressed by their set that I had to immediately cop the vinyl. That’s unusual for me, especially a death metal record that I’ll be able to play on rare occasions!
 
