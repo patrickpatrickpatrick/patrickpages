@@ -1,5 +1,6 @@
 const { DateTime } = require("luxon");
 const markdownItAnchor = require("markdown-it-anchor");
+const footnote_plugin = require("markdown-it-footnote");
 
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
@@ -8,7 +9,11 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 const pluginDrafts = require("./eleventy.config.drafts.js");
-const pluginImages = require("./eleventy.config.images.js");	
+const pluginImages = require("./eleventy.config.images.js");
+
+const { Client } = require("@notionhq/client");
+const { NotionToMarkdown } = require("notion-to-md");
+const fs = require('fs');
 
 module.exports = function(eleventyConfig) {
 	// Copy the contents of the `public` folder to the output folder
@@ -93,6 +98,8 @@ module.exports = function(eleventyConfig) {
 			slugify: eleventyConfig.getFilter("slugify")
 		});
 	});
+
+	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(footnote_plugin));	
 
 	// Features to make your build faster (when you need them)
 
