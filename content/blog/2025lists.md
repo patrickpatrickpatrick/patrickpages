@@ -35,7 +35,7 @@ I’ve written about Eiko Ishibashi before but it’s been about her instrumenta
 
 The typical progression for an emo band, especially on their first record after a long hiatus, is to put away the toys (emo) and become adults (play post-rock). Algernon Cadwallader surprised us in 2025, not only by releasing a new album but also by releasing a new album that is an actual emo album. By juxtaposing the nostalgic sounds of their youth with more mature lyricism, "Trying Not To Have a Thought" makes the convincing case that "emo is for the adults".
 
-### [La fabula del martell i les tres flors - The Clothes](https://nosoapworld.bandcamp.com/album/la-fabula-del-martell-i-les-tres-flors)
+### [The Clothes - La fabula del martell i les tres flors](https://nosoapworld.bandcamp.com/album/la-fabula-del-martell-i-les-tres-flors)
 
 Imagines what would happen if you travelled back in time and gave [Gastr Del Sol](https://www.youtube.com/watch?v=-qqumdtJpIg) a modern sampler.
 
