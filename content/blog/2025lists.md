@@ -109,7 +109,7 @@ As of writing I've yet to finish it but currently I'm enjoying [Rejection by Ton
 
 I was surprised by how much I liked [Wake Up Dead Man](https://letterboxd.com/film/wake-up-dead-man/). I really didn't like the previous Knives Out films or what I've seen of Poker Face, so I assumed that Rian Johnson would never make a murder-mystery that clicked with me. This latest entry however is more restrained than the previous films, has a fantastic central Josh O'Connor performance and is an effective rumination on how aging changes your relationship with religion (that resonated with my own feelings on the subject).
 
-Watching [Don't Let The Riverbeast Get You!](https://letterboxd.com/film/dont-let-the-riverbeast-get-you/) on the big screen with an in-person Matt Farley Q&A is something I thought I'd never experience. Hearing first-hand from a compulsively creative person who let anything stop him from making art was a more inspirational experience than I anticipated.
+Watching [Don't Let The Riverbeast Get You!](https://letterboxd.com/film/dont-let-the-riverbeast-get-you/) on the big screen with an in-person Matt Farley Q&A is something I thought I'd never experience. Hearing first-hand from a compulsively creative person who won't let anything stop him from making art was a more inspirational experience than I anticipated.
 
 [^1]: This sentence was written in February 2025
 [^2]: This sentence was written in February 2025
