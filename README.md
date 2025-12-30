@@ -1,3 +1,3 @@
 # My personal site
 
-It uses [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) and it is hosted on [Github Pages](https://pages.github.com/).
+It uses [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) and it is hosted on Cloudflare.
