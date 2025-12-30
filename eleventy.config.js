@@ -14,7 +14,7 @@ import * as YAML from 'yaml';
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
-	
+
 	eleventyConfig.on("eleventy.beforeConfig", async ({ directories, runMode, outputMode }) => {
 		const database_id = process.env.NOTION_DATABASE_ID
 
@@ -63,15 +63,15 @@ export default async function(eleventyConfig) {
 				const frontmatter = "---\n"+ YAML.stringify(pageProperties[block_id]) + "\n---\n"
 
 				try {
-					fs.writeFileSync(`content/blog/${filename}`, frontmatter + mdString.parent)	
+					fs.writeFileSync(`content/blog/${filename}`, frontmatter + mdString.parent)
 				} catch (e) {
 					console.log(`Writing ${filename} failed: ${e}`)
 				}
-				
+
 				console.log(`Wrote ${filename} successfully.`)
 			})
 		)
-	})	
+	})
 
 	// Drafts, see also _data/eleventyDataSchema.js
 	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
