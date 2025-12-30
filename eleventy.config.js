@@ -6,8 +6,73 @@ import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
 import pluginFilters from "./_config/filters.js";
 
+import * as fs from 'fs';
+import { Client } from '@notionhq/client';
+import { NotionToMarkdown } from 'notion-to-md';
+import slugify from 'slugify';
+import * as YAML from 'yaml';
+
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
+	
+	eleventyConfig.on("eleventy.beforeConfig", async ({ directories, runMode, outputMode }) => {
+		const database_id = env.NOTION_DATABASE_ID
+
+		if (!database_id || !env.NOTION_API_KEY) return
+
+		const notion = new Client({
+		  auth: env.NOTION_API_KEY
+		});
+
+		const { data_sources } =  await notion.databases.retrieve({
+		  database_id,
+		});
+
+		const data_source_id = data_sources[0].id
+
+		const { results } = await notion.dataSources.query({
+			data_source_id,
+		})
+
+		const pageProperties = results.reduce((res, { id, properties }) => ({
+			...res,
+			[id]: {
+				title: properties["Name"].title[0]?.plain_text,
+				description: properties["Description"].rich_text[0]?.plain_text,
+				date: properties["Last edited time"]?.last_edited_time,
+				draft: !properties["Live"].checkbox,
+			}
+		}), {})
+
+		const block_ids = results.map(({ id }) => id)
+
+		// passing notion client to the option
+		const n2m = new NotionToMarkdown({
+			notionClient: notion,
+		});
+
+		await Promise.all(
+			block_ids.map(async (block_id) => {
+				const mdblocks = await n2m.pageToMarkdown(block_id);
+				const mdString = n2m.toMarkdownString(mdblocks);
+
+				const { title } = pageProperties[block_id];
+
+				const filename = `${slugify(title.toLowerCase())}.md`;
+
+				const frontmatter = "---\n"+ YAML.stringify(pageProperties[block_id]) + "\n---\n"
+
+				try {
+					fs.writeFileSync(`content/blog/${filename}`, frontmatter + mdString.parent)	
+				} catch (e) {
+					console.log(`Writing ${filename} failed: ${e}`)
+				}
+				
+				console.log(`Wrote ${filename} successfully.`)
+			})
+		)
+	})	
+
 	// Drafts, see also _data/eleventyDataSchema.js
 	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
 		if (data.draft) {
