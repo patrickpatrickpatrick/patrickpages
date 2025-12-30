@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 
 <head>
@@ -22,12 +21,13 @@
     <link href="/atamaca/css/main.50075e15.css" rel="stylesheet">
 </head>
 
-<body><noscript>You need to enable JavaScript to run this app.</noscript>
+<body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
     <script src="/atamaca/js/main.js"></script>
+    <script eleventy:ignore type="text/javascript">
+        (() => fetch("/atamaca/references.json").then(e => e.json()).then(e => { window.renderGarden(e, '/works/atamaca-garden') }))()
+    </script>    
 </body>
-<script type="text/javascript">
-fetch("/atamaca/references.json").then(e => e.json()).then(e => { window.renderGarden(e, '/works/atamaca-garden') })
-</script>
 
 </html>
