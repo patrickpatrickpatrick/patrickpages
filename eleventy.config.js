@@ -16,9 +16,9 @@ import * as YAML from 'yaml';
 export default async function(eleventyConfig) {
 	
 	eleventyConfig.on("eleventy.beforeConfig", async ({ directories, runMode, outputMode }) => {
-		const database_id = env.NOTION_DATABASE_ID
+		const database_id = process.env.NOTION_DATABASE_ID
 
-		if (!database_id || !env.NOTION_API_KEY) return
+		if (!database_id || !process.env.NOTION_API_KEY) return
 
 		const notion = new Client({
 		  auth: env.NOTION_API_KEY
