@@ -21,7 +21,7 @@ export default async function(eleventyConfig) {
 		if (!database_id || !process.env.NOTION_API_KEY) return
 
 		const notion = new Client({
-		  auth: env.NOTION_API_KEY
+		  auth: process.env.NOTION_API_KEY
 		});
 
 		const { data_sources } =  await notion.databases.retrieve({
