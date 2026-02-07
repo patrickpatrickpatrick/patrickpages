@@ -9,7 +9,7 @@ import pluginFilters from "./_config/filters.js";
 import * as fs from 'fs';
 import { Client } from '@notionhq/client';
 import { NotionToMarkdown } from 'notion-to-md';
-import slugify from 'slugify';
+import slugify from 'slugify'; // being lazy lol
 import * as YAML from 'yaml';
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
@@ -46,11 +46,30 @@ export default async function(eleventyConfig) {
 
 		const block_ids = results.map(({ id }) => id)
 
+		// need to download the images of a page
+		// because the link to the file won't work
+		// (only temporary)
+
 		// passing notion client to the option
 		const n2m = new NotionToMarkdown({
 			notionClient: notion,
 		});
 
+		n2m.setCustomTransformer("image", async ({id, image: { file: { url } }}) => {
+			const image = await fetch(url)
+			const image_blob = await image.blob()
+			const image_array_buffer = await image_blob.arrayBuffer()
+			const { ext } = Array.from(url.matchAll(/(?:.*\.)(?<ext>.*)(?:\?.*)/g))[0].groups
+
+			const savedPath = `content/blog/${id}.${ext}`;
+
+			fs.writeFileSync(savedPath, Buffer.from(image_array_buffer))
+
+			return `![](${id}.${ext})`
+		})
+
+		// don't actually start building until all the files have
+		// been written from Notion
 		await Promise.all(
 			block_ids.map(async (block_id) => {
 				const mdblocks = await n2m.pageToMarkdown(block_id);
